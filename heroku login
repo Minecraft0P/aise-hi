@@ -1,0 +1,4 @@
+heroku create -a afkbot020156
+git remote -v
+heroku git:remote -a afkbot020156
+git push heroku main
